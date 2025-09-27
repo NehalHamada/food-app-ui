@@ -235,7 +235,7 @@ function App() {
                 <CardMedia
                   component="img"
                   height="220"
-                  image="../public/shrimp.jpg"
+                  image="https://www.pinterest.com/pin/774124930908687/"
                   alt="Paella dish"
                 />
                 <CardContent>
